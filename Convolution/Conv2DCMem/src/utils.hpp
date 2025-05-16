@@ -1,0 +1,1 @@
+int computeOutputSize(int inputSize, int kernelSize, int padding, int stride, int dilation);
